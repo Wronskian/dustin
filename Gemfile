@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails'
+gem 'rails', '3.0.3'
 gem 'devise'
 gem 'bcrypt-ruby'
 gem 'jquery-rails', :git => 'git://github.com/pgericson/jquery-rails.git'

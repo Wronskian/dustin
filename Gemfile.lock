@@ -109,7 +109,7 @@ DEPENDENCIES
   bcrypt-ruby
   devise
   jquery-rails!
-  rails
+  rails (= 3.0.3)
   rspec-rails
   sqlite3-ruby
   webrat
